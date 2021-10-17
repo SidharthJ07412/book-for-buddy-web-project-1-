@@ -1,0 +1,84 @@
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    background-image: url(https://image.freepik.com/free-photo/starry-night-sky_1048-11828.jpg);
+    border-radius: 10px;
+    font-size: x-large;
+  }
+  
+.l {
+    float: left;
+  }
+  
+.l a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+.l a:hover {
+    color:lawngreen;
+  }
+  
+  header{
+background-color:white;
+color: rgb(255, 60, 0);
+text-align: center;
+font-size: xx-large;
+font-family: cursive;
+
+}
+section{
+    background-image:linear-gradient(rgb(87, 202, 248), rgb(177,255,233) );
+    text-align: center;
+    font-size: 200%;
+}
+
+.sub{
+    font-size: 20px;
+    padding:10px;
+    cursor:pointer;
+}
+
+h2{
+    color:rgb(250, 18, 65);
+    font-size:200%;
+}
+
+.matter{  
+    background-image: url(https://image.freepik.com/free-photo/starry-night-sky_1048-11828.jpg);
+    color:white;
+    font-size:150%;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
+
+  .no {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://image.freepik.com/free-photo/starry-night-sky_1048-11828.jpg);
+    border-radius: 20px;
+  }

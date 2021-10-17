@@ -1,0 +1,39 @@
+*{
+    margin :0;
+    padding : 0;
+   }
+   .tokens {
+       min-height: 100vh;
+       width: 100%;
+       background-image: linear-gradient(rgba(63, 75, 126, 0.7),rgba(233, 252, 25, 0.7)),url("images/token.png");
+       background-size: cover;
+       
+       background-position : centre;
+       background-image : cover;
+       position:relative; 
+}
+   .tokens h1{
+    padding: 1% 1%;
+    font-size: 60px;
+    color: yellow;
+}
+   .tokens p{
+     margin-top: 20px;
+     margin-left: 20px;
+   font-size: 30px;
+   color: rgb(128, 0, 75);
+}
+.tokens h2{
+   margin-left: 20px;
+    margin-top: 20px;
+font-size:40px ;
+color: indigo;
+
+}
+.tokens p{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    color:rgb(red, green, blue);
+
+}

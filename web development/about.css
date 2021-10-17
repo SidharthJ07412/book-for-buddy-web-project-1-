@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+}
+.first{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(119, 129, 11, 0.7),rgba(17, 62, 185, 0.7)),url("images/about.png");
+    background-size: cover;  
+  
+    position:relative;
+
+}
+.first h1{
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 60px;
+}    
+.first p{
+ padding-top:40px ;
+ 
+ padding-left: 30px;
+ font-size: 30px;
+  position: relative;
+
+}

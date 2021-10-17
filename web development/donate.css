@@ -1,0 +1,122 @@
+* {
+    font-size: 110%;
+    border-radius: 18px;
+}
+.imp{
+    font-size: 50%;
+}
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    border-radius: 25px;
+    font-size:x-large
+  }
+  
+.l {
+    float: left;
+  }
+  
+.l a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+.l a:hover {
+    background-color: #111;
+    color:lawngreen;
+  }
+h3{
+    background-color: rgb(31, 7, 50);
+    font-size: 200%;
+    text-align: center;
+    color:white;
+    border-radius:25px;
+}
+h1{
+    background-image: linear-gradient(wheat,rgb(226, 143, 143));
+    /*background-color:rgb(2, 47, 60);*/
+    /*background-image: url(study.jpg)*/
+    background-position: center;
+    font-size: 500%;
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+.date{
+    color:brown;
+    font-size: 200%;
+}
+
+a:hover{
+    color:rgb(55, 0, 255);
+    text-align: center;
+}
+body{
+   
+    color:rgb(0, 0, 0);
+}
+
+img { 
+    border-radius: 50%; 
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+ div Personal{
+    border-radius: 25px;
+    /*background-image: linear-gradient(wheat,rgb(226, 143, 143));*/
+    background-image: url(study.jpg) ;
+
+  }
+
+  .sub{
+    text-align: center;
+    font-size: 175%;
+  }
+
+  .cen{
+    text-align: center;
+  }
+
+  .per{
+    background-image:linear-gradient(rgb(87, 202, 248), rgb(177,255,233) );
+  }
+
+  .space{
+    color:white;
+    background-image: url(https://image.freepik.com/free-photo/starry-night-sky_1048-11828.jpg);
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: small;
+  }
+
+  .no {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://image.freepik.com/free-photo/starry-night-sky_1048-11828.jpg);
+    border-radius: 20px;
+  }
